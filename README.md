@@ -63,4 +63,4 @@ To build a dynamic and professional dashboard that enables users to:
 
 ## 🔗 View Exported Report
 
-[Click here to view the dashboard PDF](Sales_Analytics_Dashboard.pdf)
+[Click here to view the dashboard PDF](Sales_Analytics_Report.pdf)
