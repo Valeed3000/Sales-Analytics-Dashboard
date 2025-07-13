@@ -57,7 +57,7 @@ To build a dynamic and professional dashboard that enables users to:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview](Dashboard Screenshot.png)
 
 ---
 
